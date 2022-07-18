@@ -1,9 +1,7 @@
 #lang racket
 
-;;;; Exercise 1.2
+;;;; Translate the following expression into prefix form
 
-;;; Translate the following expression into prefix form
-;;;
 ;;; Numerator   = 5 + 4 + (2 - (3 - (6 + 4/5)))
 ;;;               -----------------------------
 ;;; Denominator =       3(6 - 2)(2 - 7)
